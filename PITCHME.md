@@ -3,6 +3,7 @@
 - test
 - tsts
 - pichu
+- pikachu
 
 すごーい！  
 たーのしー！  
